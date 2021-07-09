@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM centos:latest
 MAINTAINER @estebangonzalez
 RUN yum -y install httpd
 COPY index.html /var/www/html/
