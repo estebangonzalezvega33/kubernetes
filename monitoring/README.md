@@ -1,0 +1,1 @@
+yaml para aplicar monitoreo en kubernetes
